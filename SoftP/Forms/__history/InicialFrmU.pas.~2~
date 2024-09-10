@@ -1,0 +1,27 @@
+unit InicialFrmU;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, Buttons;
+
+type
+  TInicialFrm = class(TForm)
+    pnlPrincipal: TPanel;
+    pnlTopo: TPanel;
+    btnSair: TSpeedButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  InicialFrm: TInicialFrm;
+
+implementation
+
+{$R *.dfm}
+
+end.

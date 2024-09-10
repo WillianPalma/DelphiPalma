@@ -1,0 +1,33 @@
+unit InicialFrmU;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, Buttons;
+
+type
+  TInicialFrm = class(TForm)
+    pnlPrincipal: TPanel;
+    pnlTopo: TPanel;
+    btnSair: TSpeedButton;
+    procedure btnSairClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  InicialFrm: TInicialFrm;
+
+implementation
+
+{$R *.dfm}
+
+procedure TInicialFrm.btnSairClick(Sender: TObject);
+begin
+  Close;
+end;
+
+end.
