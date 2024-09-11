@@ -1,0 +1,16 @@
+program NPConn;
+
+uses
+  Forms,
+  InicialFrmU in '..\Forms\InicialFrmU.pas' {PrincipalFrm},
+  IntegracaoFrmU in '..\Forms\IntegracaoFrmU.pas' {IntegracaoFrm},
+  InconsistenciasFrmU in '..\Forms\InconsistenciasFrmU.pas' {InconsistenciasFrm};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TPrincipalFrm, PrincipalFrm);
+  Application.Run;
+end.

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/04 17:08:11.000.482,=C:\Users\willianpalma\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/05 17:06:52.000.265,=C:\Users\willianpalma\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/05 17:08:18.000.233,C:\DELPHI - 2024\NP Conn\Forms\InicialFrmU.dfm=C:\Users\willianpalma\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/05 17:08:18.000.233,C:\DELPHI - 2024\NP Conn\Forms\InicialFrmU.pas=C:\Users\willianpalma\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/05 17:08:28.000.892,C:\DELPHI - 2024\NP Conn\Projeto\NPConn.dproj=C:\Users\willianpalma\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/06 08:00:23.000.239,=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/06 08:01:08.000.726,C:\DELPHI - 2024\NP Conn\Projeto\Unit1.dfm=C:\DELPHI - 2024\NP Conn\Forms\IntegracaoFrmU.dfm</Transaction>
+    <Transaction>2024/09/06 08:01:08.000.726,C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas=C:\DELPHI - 2024\NP Conn\Forms\IntegracaoFrmU.pas</Transaction>
+    <Transaction>2024/09/09 12:05:50.000.738,=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 12:07:33.000.802,C:\DELPHI - 2024\NP Conn\Forms\InconsistenciasFrmU.pas=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 12:07:33.000.802,C:\DELPHI - 2024\NP Conn\Forms\InconsistenciasFrmU.dfm=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2024/09/10 15:57:49.000.565,=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 15:59:41.000.245,C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas=C:\DELPHI - 2024\NP Conn\Forms\RateioFrmU.pas</Transaction>
+    <Transaction>2024/09/10 15:59:41.000.245,C:\DELPHI - 2024\NP Conn\Projeto\Unit1.dfm=C:\DELPHI - 2024\NP Conn\Forms\RateioFrmU.dfm</Transaction>
+    <Transaction>2024/09/10 16:49:32.000.494,=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 16:50:43.000.021,C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas=C:\DELPHI - 2024\NP Conn\Forms\FechamentoPimsFrmU.pas</Transaction>
+    <Transaction>2024/09/10 16:50:43.000.021,C:\DELPHI - 2024\NP Conn\Projeto\Unit1.dfm=C:\DELPHI - 2024\NP Conn\Forms\FechamentoPimsFrmU.dfm</Transaction>
+    <Transaction>2024/09/11 11:15:24.413,=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/11 11:16:15.860,C:\DELPHI - 2024\NP Conn\Forms\ImpurezasFrmU.dfm=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2024/09/11 11:16:15.860,C:\DELPHI - 2024\NP Conn\Forms\ImpurezasFrmU.pas=C:\DELPHI - 2024\NP Conn\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

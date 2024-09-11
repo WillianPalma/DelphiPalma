@@ -1,0 +1,20 @@
+program NPConn;
+
+uses
+  Forms,
+  InicialFrmU in '..\Forms\InicialFrmU.pas' {PrincipalFrm},
+  IntegracaoFrmU in '..\Forms\IntegracaoFrmU.pas' {IntegracaoFrm},
+  InconsistenciasFrmU in '..\Forms\InconsistenciasFrmU.pas' {InconsistenciasFrm},
+  RateioFrmU in '..\Forms\RateioFrmU.pas' {RateioFrm},
+  FechamentoPimsFrmU in '..\Forms\FechamentoPimsFrmU.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TPrincipalFrm, PrincipalFrm);
+  Application.CreateForm(TRateioFrm, RateioFrm);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
